@@ -1,5 +1,5 @@
 ﻿using Backend;
-
+//Console
 var infix = "4*5/(4+6)";
 Console.WriteLine($"Infix = {infix}, Result = {ExpressionEvaluator.Evalute(infix):N5}"); // 2
 
