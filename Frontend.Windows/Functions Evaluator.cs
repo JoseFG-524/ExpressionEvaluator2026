@@ -21,7 +21,7 @@ namespace Frontend.Windows
 
         private void btn7_Click(object sender, EventArgs e)
         {
-            txtDisplay.Text += "7";
+            txtDisplay.Text += "11";
         }
 
         private void btn8_Click(object sender, EventArgs e)
